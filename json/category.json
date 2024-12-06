@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "60799dc7c2c96719708b475f"
+  },
+  "id": 8,
+  "name": "Kem dưỡng da",
+  "urlRewriteName": "kem-duong-da",
+  "isDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60799dd3c2c96719708b4760"
+  },
+  "id": 9,
+  "name": "Trang điểm",
+  "urlRewriteName": "trang-diem",
+  "isDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60799de0c2c96719708b4761"
+  },
+  "id": 10,
+  "name": "Son & Phấn",
+  "urlRewriteName": "son-&-phan",
+  "isDeleted": false,
+  "__v": 0
+}]

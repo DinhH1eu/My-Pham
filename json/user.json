@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "5f8b0dc2e95f47cdc246dc0a"
+  },
+  "id": 1,
+  "fullname": "Đinh Hải Hiếu",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$jieGg1a.cvUb6lIFYyAU1OfEdx4hAtqUupfXrhKjbRIu8Cn8qRYkq",
+  "roles": [
+    "ADMIN"
+  ],
+  "photo": "KyYeu.png"
+},{
+  "_id": {
+    "$oid": "5f9c4510a3de3a0c50c6ea43"
+  },
+  "id": 13,
+  "fullname": "Dinh Hieu",
+  "email": "hieu.dhmain@gmail.com",
+  "password": "$2a$16$q2uKRNK9SnLHfaSODHjjkOLX5c/l4GvZ7X/1h4Ix0JklJJ0joxAny",
+  "roles": [
+    "CUSTOMER"
+  ],
+  "__v": 0,
+  "photo": "KyYeu.png"
+},{
+  "_id": {
+    "$oid": "5f8b0dc2e95f47cdc246dc0b"
+  },
+  "id": 2,
+  "fullname": "Hieu",
+  "email": "hieusudan123@gmail.com",
+  "password": "$2a$10$xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "roles": [
+    "CUSTOMER"
+  ],
+  "__v": 0
+}
+]

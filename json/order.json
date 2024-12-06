@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6079acc8c2c96719708b477f"
+  },
+  "id": 49,
+  "name": "Đinh Hải Hiếu",
+  "email": "hoangngockiet.a1.2018@gmail.com",
+  "phone": "0984648592",
+  "msg": "sdsdsdsd",
+  "total": 622000,
+  "status": 1,
+  "ship": "29",
+  "payment": "TM",
+  "details": [
+    {
+      "price": 282000,
+      "quantity": 1,
+      "item": {
+        "__v": 0,
+        "photo": "1618583307331_ahc_brilliant_gold_cream_60c96cb121444dd5af78266193f5079d.webp",
+        "salePrice": 282000,
+        "isDeleted": false,
+        "sale": 6,
+        
+        "price": 300000,
+        "description": "kem dưỡng da số 1 thế giới phù hợp với mọi làn da",
+        "categoryId": 8,
+        "urlRewriteName": "kem-duong-da-3",
+        "name": "Kem dưỡng da 3",
+        "id": 82,
+        "_id": "60799f0bc2c96719708b4764"
+      }
+    },
+    {
+      "price": 340000,
+      "quantity": 1,
+      "item": {
+        "__v": 0,
+        "photo": "1618583332642_Hình-ảnh-Kem-dưỡng-ẩm-vitamin-e-nubeauty.com_.vn_.jpg",
+        "salePrice": 340000,
+        "isDeleted": false,
+        "sale": 15,
+        "price": 400000,
+        "description": "kem dưỡng da số 1 thế giới phù hợp với mọi làn da",
+        "categoryId": 8,
+        "urlRewriteName": "kem-duong-da-4",
+        "name": "Kem dưỡng da 4",
+        "id": 83,
+        "_id": "60799f24c2c96719708b4765"
+      }
+    }
+  ],
+  "__v": 0
+}]

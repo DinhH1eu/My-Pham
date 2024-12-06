@@ -1,0 +1,109 @@
+<% include layout/header.ejs %>
+<!-- Header End -->
+
+<div id="maincontainer">
+  <section id="product">
+    <div class="container">
+     <!--  breadcrumb --> 
+      <ul class="breadcrumb">
+        <li>
+          <a href="#">Home</a>
+          <span class="divider">/</span>
+        </li>
+        <li class="active">Register</li>
+      </ul>  
+      <!-- Contact Us-->
+      <h1 class="heading1"><span class="maintext">Register</span></h1>
+      <div class="row">
+        <% if(response_message != ''){ %> 
+            <div class="alert alert-success"><%= response_message%></div>
+        <% } %>
+        <div class="alert alert-danger" style="display: none;"></div>
+        <div class="span9">
+          
+            <fieldset>
+              <div class="control-group">
+                <label for="fullname" class="control-label">Họ tên <span class="required">*</span></label>
+                <div class="controls">
+                  <input type="text"  class="required" id="fullname" value="" name="fullname">
+                </div>
+              </div>
+              <div class="control-group">
+                <label for="password" class="control-label">Mật khẩu <span class="required">*</span></label>
+                <div class="controls">
+                  <input type="password"  class="required password" id="password" value="" name="password">
+                </div>
+              </div>
+              <div class="control-group">
+                <label for="repassword" class="control-label">Nhập lại Mật khẩu <span class="required">*</span></label>
+                <div class="controls">
+                  <input type="password"  class="required repassword" id="repassword" value="" name="repassword">
+                </div>
+              </div>
+              <div class="control-group">
+                <label for="email" class="control-label">Email <span class="required">*</span></label>
+                <div class="controls">
+                  <input type="email"  class="required email" id="email" value="" name="email">
+                </div>
+              </div>
+              <div class="control-group">
+                <label for="url" class="control-label">Phone</label>
+                <div class="controls">
+                  <input type="text" id="phone" value="" name="phone">
+                </div>
+              </div>
+              <div class="form-actions">
+                <input type="submit" value="Register" class="btn btn-orange" id="register_id"
+                  onclick="onSubmit()">
+                <input class="btn" type="reset" value="Reset">
+              </div>
+            </fieldset>
+          
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+<script type="text/javascript">
+  function onSubmit() {
+    var postData = {
+      fullname: $('#fullname').val(),
+      email: $('#email').val(),
+      password: $('#password').val(),
+      repassword: $('#repassword').val()
+    };
+
+    $.ajax(
+      {
+        type: 'POST',
+        url: 'http://localhost:3000/dang-ky.html',
+        data: postData,
+        success: function(response){
+          $('.alert-danger').empty();
+
+          var bHasError = false;
+            
+          if (response) {
+            if (response.isSucceed === true) {
+              window.location.href = 'http://localhost:3000';
+            }
+            else if (response.errors) {
+              for (var x of response.errors) {
+                $('.alert-danger').append(`<label>${x.msg}</label>`);
+              }
+
+              bHasError = true;
+            }
+          }
+
+          if (bHasError === true) {
+            $('.alert-danger').show();
+          }
+        }
+      }
+    );
+  }
+</script>
+
+<!-- Footer -->
+<% include layout/footer.ejs %>

@@ -1,0 +1,437 @@
+[{
+  "_id": {
+    "$oid": "60799ee3c2c96719708b4762"
+  },
+  "id": 80,
+  "name": "Kem dưỡng da 1",
+  "urlRewriteName": "kem-duong-da-1",
+  "categoryId": 8,
+  "description": "kem dưỡng da số 1 thế giới phù hợp với mọi làn da",
+  "price": 300000,
+  "sale": 10,
+  "isDeleted": false,
+  "salePrice": 270000,
+  "photo": "1618583267028_735e03fb92e04ff7c9257dd63bbbe8af.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60799ef9c2c96719708b4763"
+  },
+  "id": 81,
+  "name": "Kem dưỡng da 2",
+  "urlRewriteName": "kem-duong-da-2",
+  "categoryId": 8,
+  "description": "kem dưỡng da số 1 thế giới phù hợp với mọi làn da",
+  "price": 150000,
+  "sale": 3,
+  "isDeleted": false,
+  "salePrice": 145500,
+  "photo": "1618583289723_2218505063-kem-duong-am-aloe-moisturizing-lotion.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60799f0bc2c96719708b4764"
+  },
+  "id": 82,
+  "name": "Kem dưỡng da 3",
+  "urlRewriteName": "kem-duong-da-3",
+  "categoryId": 8,
+  "description": "kem dưỡng da số 1 thế giới phù hợp với mọi làn da",
+  "price": 300000,
+  "sale": 6,
+  "isDeleted": false,
+  "salePrice": 282000,
+  "photo": "1618583307331_ahc_brilliant_gold_cream_60c96cb121444dd5af78266193f5079d.webp",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60799f24c2c96719708b4765"
+  },
+  "id": 83,
+  "name": "Kem dưỡng da 4",
+  "urlRewriteName": "kem-duong-da-4",
+  "categoryId": 8,
+  "description": "kem dưỡng da số 1 thế giới phù hợp với mọi làn da",
+  "price": 400000,
+  "sale": 15,
+  "isDeleted": false,
+  "salePrice": 340000,
+  "photo": "1618583332642_Hình-ảnh-Kem-dưỡng-ẩm-vitamin-e-nubeauty.com_.vn_.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60799f37c2c96719708b4766"
+  },
+  "id": 84,
+  "name": "Kem dưỡng da 5",
+  "urlRewriteName": "kem-duong-da-5",
+  "categoryId": 8,
+  "description": "kem dưỡng da số 1 thế giới phù hợp với mọi làn da",
+  "price": 250000,
+  "sale": 5,
+  "isDeleted": false,
+  "salePrice": 237500,
+  "photo": "1618583351324_images (1).jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60799f49c2c96719708b4767"
+  },
+  "id": 85,
+  "name": "Kem dưỡng da 6",
+  "urlRewriteName": "kem-duong-da-6",
+  "categoryId": 8,
+  "description": "kem dưỡng da số 1 thế giới phù hợp với mọi làn da",
+  "price": 500000,
+  "sale": 10,
+  "isDeleted": false,
+  "salePrice": 450000,
+  "photo": "1618583369891_images.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60799f5cc2c96719708b4768"
+  },
+  "id": 86,
+  "name": "Kem dưỡng da 7",
+  "urlRewriteName": "kem-duong-da-7",
+  "categoryId": 8,
+  "description": "kem dưỡng da số 1 thế giới phù hợp với mọi làn da",
+  "price": 750000,
+  "sale": 7,
+  "isDeleted": false,
+  "salePrice": 697500,
+  "photo": "1618583388705_kem-duong-da-ahc-capture-revite-solution-max-cream-50gr-vang.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60799f82c2c96719708b4769"
+  },
+  "id": 87,
+  "name": "Kem dưỡng da 8",
+  "urlRewriteName": "kem-duong-da-8",
+  "categoryId": 8,
+  "description": "kem dưỡng da số 1 thế giới phù hợp với mọi làn da",
+  "price": 850000,
+  "sale": 15,
+  "isDeleted": false,
+  "salePrice": 722500,
+  "photo": "1618583426933_images (2).jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a062c2c96719708b476a"
+  },
+  "id": 88,
+  "name": "Son 1",
+  "urlRewriteName": "son-1",
+  "categoryId": 10,
+  "description": "Thiết kế sang chảnh, chất son lì ấn tượng, màu son đỏ mận sành điệu, tất cả khiến màn chào sân giới son môi  thêm phần đỉnh cao.",
+  "price": 300000,
+  "sale": 4,
+  "isDeleted": false,
+  "salePrice": 288000,
+  "photo": "1618583650572_7f8caba6d4a93aa180c90d953f04306a.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a073c2c96719708b476b"
+  },
+  "id": 89,
+  "name": "son 2",
+  "urlRewriteName": "son-2",
+  "categoryId": 8,
+  "description": "Thiết kế sang chảnh, chất son lì ấn tượng, màu son đỏ mận sành điệu, tất cả khiến màn chào sân giới son môi  thêm phần đỉnh cao.",
+  "price": 150000,
+  "sale": 2,
+  "isDeleted": true,
+  "salePrice": 147000,
+  "photo": "1618583667163_b33c6947bb6d1497815b4092b8b4780c_tn.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a088c2c96719708b476c"
+  },
+  "id": 90,
+  "name": "son 3",
+  "urlRewriteName": "son-3",
+  "categoryId": 10,
+  "description": "Thiết kế sang chảnh, chất son lì ấn tượng, màu son đỏ mận sành điệu, tất cả khiến màn chào sân giới son môi  thêm phần đỉnh cao.",
+  "price": 400000,
+  "sale": 5,
+ 
+  "isDeleted": false,
+  "salePrice": 380000,
+  "photo": "1618583688696_images (3).jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a0a1c2c96719708b476d"
+  },
+  "id": 91,
+  "name": "son 4",
+  "urlRewriteName": "son-4",
+  "categoryId": 10,
+  "description": "Thiết kế sang chảnh, chất son lì ấn tượng, màu son đỏ mận sành điệu, tất cả khiến màn chào sân giới son môi  thêm phần đỉnh cao.",
+  "price": 120000,
+  "sale": 2,
+  "isDeleted": false,
+  "salePrice": 117600,
+  "photo": "1618583713235_son_li.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a0b3c2c96719708b476e"
+  },
+  "id": 92,
+  "name": "son 2",
+  "urlRewriteName": "son-2",
+  "categoryId": 10,
+  "description": "Thiết kế sang chảnh, chất son lì ấn tượng, màu son đỏ mận sành điệu, tất cả khiến màn chào sân giới son môi  thêm phần đỉnh cao.",
+  "price": 340000,
+  "sale": 10,
+  "isDeleted": false,
+  "salePrice": 306000,
+  "photo": "1618583731836_b33c6947bb6d1497815b4092b8b4780c_tn.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a110c2c96719708b476f"
+  },
+  "id": 93,
+  "name": "son 5",
+  "urlRewriteName": "son-5",
+  "categoryId": 10,
+  "description": "Thiết kế sang chảnh, chất son lì ấn tượng, màu son đỏ mận sành điệu, tất cả khiến màn chào sân giới son môi  thêm phần đỉnh cao.",
+  "price": 135000,
+  "sale": 4,
+  "isDeleted": false,
+  "salePrice": 129600,
+  "photo": "1618583824443_img20180519155859070.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a13ac2c96719708b4770"
+  },
+  "id": 94,
+  "name": "son 6",
+  "urlRewriteName": "son-6",
+  "categoryId": 10,
+  "description": "Thiết kế sang chảnh, chất son lì ấn tượng, màu son đỏ mận sành điệu, tất cả khiến màn chào sân giới son môi  thêm phần đỉnh cao.",
+  "price": 433000,
+  "sale": 15,
+  "isDeleted": false,
+  "salePrice": 368050,
+  "photo": "1618583866188_son-hermes-85-rouge-h-510x510.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a1aac2c96719708b4771"
+  },
+  "id": 95,
+  "name": "phấn 1",
+  "urlRewriteName": "phan-1",
+  "categoryId": 10,
+  "description": "Tiết kiệm được khá nhiều thời gian và chi phí khi trang điểm vì tích hợp nhiều công dụng.Mang lại cho các nàng một lớp nền mỏng mịn, trong suốt căng bóng, đẹp tự nhiên .\r\nĐặc biệt thích hợp với các nàng sở hữu làn da khô, không bị mốc khi trang điểm .\r\nKhả năng bám tốt, giúp lớp trang điểm lâu trôi.\r\nCung cấp độ ẩm nuôi dưỡng làn da …",
+  "price": 500000,
+  "sale": 12,
+  "isDeleted": false,
+  "salePrice": 440000,
+  "photo": "1618583978211_4ed68eb6002033331c3af64f1450b74d.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a1bcc2c96719708b4772"
+  },
+  "id": 96,
+  "name": "phấn 2",
+  "urlRewriteName": "phan-2",
+  "categoryId": 10,
+  "description": "Tiết kiệm được khá nhiều thời gian và chi phí khi trang điểm vì tích hợp nhiều công dụng.Mang lại cho các nàng một lớp nền mỏng mịn, trong suốt căng bóng, đẹp tự nhiên .\r\nĐặc biệt thích hợp với các nàng sở hữu làn da khô, không bị mốc khi trang điểm .\r\nKhả năng bám tốt, giúp lớp trang điểm lâu trôi.\r\nCung cấp độ ẩm nuôi dưỡng làn da …",
+  "price": 650000,
+  "sale": 5,
+  "isDeleted": false,
+  "salePrice": 617500,
+  "photo": "1618583996966_cd47841ad848422056583a502b3a2b63.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a1d1c2c96719708b4773"
+  },
+  "id": 97,
+  "name": "phấn 3",
+  "urlRewriteName": "phan-3",
+  "categoryId": 10,
+  "description": "Tiết kiệm được khá nhiều thời gian và chi phí khi trang điểm vì tích hợp nhiều công dụng.Mang lại cho các nàng một lớp nền mỏng mịn, trong suốt căng bóng, đẹp tự nhiên .\r\nĐặc biệt thích hợp với các nàng sở hữu làn da khô, không bị mốc khi trang điểm .\r\nKhả năng bám tốt, giúp lớp trang điểm lâu trôi.\r\nCung cấp độ ẩm nuôi dưỡng làn da …",
+  "price": 500000,
+  "sale": 6,
+  "isDeleted": false,
+  "salePrice": 470000,
+  "photo": "1618584017830_cliona-phan-phu-estee-lauder-set-blur-finish-perfecting-pressed-powder-8g.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a1e3c2c96719708b4774"
+  },
+  "id": 98,
+  "name": "phấn 4",
+  "urlRewriteName": "phan-4",
+  "categoryId": 10,
+  "description": "Tiết kiệm được khá nhiều thời gian và chi phí khi trang điểm vì tích hợp nhiều công dụng.Mang lại cho các nàng một lớp nền mỏng mịn, trong suốt căng bóng, đẹp tự nhiên .\r\nĐặc biệt thích hợp với các nàng sở hữu làn da khô, không bị mốc khi trang điểm .\r\nKhả năng bám tốt, giúp lớp trang điểm lâu trôi.\r\nCung cấp độ ẩm nuôi dưỡng làn da …",
+  "price": 1210000,
+  "sale": 15,
+  "isDeleted": false,
+  "salePrice": 1028500,
+  "photo": "1618584035754_download.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a1fac2c96719708b4775"
+  },
+  "id": 99,
+  "name": "phấn 5",
+  "urlRewriteName": "phan-5",
+  "categoryId": 10,
+  "description": "Tiết kiệm được khá nhiều thời gian và chi phí khi trang điểm vì tích hợp nhiều công dụng.Mang lại cho các nàng một lớp nền mỏng mịn, trong suốt căng bóng, đẹp tự nhiên .\r\nĐặc biệt thích hợp với các nàng sở hữu làn da khô, không bị mốc khi trang điểm .\r\nKhả năng bám tốt, giúp lớp trang điểm lâu trôi.\r\nCung cấp độ ẩm nuôi dưỡng làn da …",
+  "price": 900000,
+  "sale": 8,
+  "isDeleted": false,
+  "salePrice": 828000,
+  "photo": "1618584058818_phan-phu-living-nature-luminous-pressed-powder-Light.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a35bc2c96719708b4776"
+  },
+  "id": 100,
+  "name": "mascara 1",
+  "urlRewriteName": "mascara-1",
+  "categoryId": 9,
+  "description": "Mascara giúp mi dày, dài và cong suốt nhiều giờ. Chuốt mi có đầu lông dày, cho màu mực trải đều từ chân đến ngọn mi, kể cả những sợi mi ngắn nhất.",
+  "price": 100000,
+  "sale": 1,
+  "isDeleted": false,
+  "salePrice": 99000,
+  "photo": "1618584411108_z2151800875011_56135257eb7b6b3ed1f6ba9cc93226c7_a3c7881e918046ea820ffc0b32dec2dc_master.webp",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a36ac2c96719708b4777"
+  },
+  "id": 101,
+  "name": "mascara 2",
+  "urlRewriteName": "mascara-2",
+  "categoryId": 9,
+  "description": "Mascara giúp mi dày, dài và cong suốt nhiều giờ. Chuốt mi có đầu lông dày, cho màu mực trải đều từ chân đến ngọn mi, kể cả những sợi mi ngắn nhất.",
+  "price": 250000,
+  "sale": 6,
+  "isDeleted": false,
+  "salePrice": 235000,
+  "photo": "1618584426723_chuot-mi-maybelline-sensational-mascara.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a382c2c96719708b4778"
+  },
+  "id": 102,
+  "name": "mascara 3",
+  "urlRewriteName": "mascara-3",
+  "categoryId": 9,
+  "description": "Mascara giúp mi dày, dài và cong suốt nhiều giờ. Chuốt mi có đầu lông dày, cho màu mực trải đều từ chân đến ngọn mi, kể cả những sợi mi ngắn nhất.",
+  "price": 150000,
+  "sale": 2,
+  "isDeleted": false,
+  "salePrice": 147000,
+  "photo": "1618584450117_download.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a3cfc2c96719708b4779"
+  },
+  "id": 103,
+  "name": "bút kẻ mày",
+  "urlRewriteName": "but-ke-may",
+  "categoryId": 9,
+  "description": "Chống thấm nước tối đa\r\nBền màu nguyên khuôn suốt cả ngày\r\nDễ dàng sử dụng cho người mới bắt đầu\r\n2 công dụng trong 1 sản phẩm: vừa định hình khuôn long mày, vừa làm đầy và đều màu từng sợi lông",
+  "price": 45000,
+  "sale": 1,
+  "isDeleted": false,
+  "salePrice": 44550,
+  "photo": "1618584527244_chi-ke-may-2-dau-beauskin-eyebrow-crystal-eyebrow-pencil-157452.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a3e2c2c96719708b477a"
+  },
+  "id": 104,
+  "name": "bút kẻ mày 1",
+  "urlRewriteName": "but-ke-may-1",
+  "categoryId": 9,
+  "description": "Chống thấm nước tối đa\r\nBền màu nguyên khuôn suốt cả ngày\r\nDễ dàng sử dụng cho người mới bắt đầu\r\n2 công dụng trong 1 sản phẩm: vừa định hình khuôn long mày, vừa làm đầy và đều màu từng sợi lông",
+  "price": 60000,
+  "sale": 2,
+  "isDeleted": false,
+  "salePrice": 58800,
+  "photo": "1618584546802_Chi-ke-long-may-phay-so-4D-music-flower-68-9.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a3ffc2c96719708b477b"
+  },
+  "id": 105,
+  "name": "bút kẻ mày 2",
+  "urlRewriteName": "but-ke-may-2",
+  "categoryId": 9,
+  "description": "Chống thấm nước tối đa\r\nBền màu nguyên khuôn suốt cả ngày\r\nDễ dàng sử dụng cho người mới bắt đầu\r\n2 công dụng trong 1 sản phẩm: vừa định hình khuôn long mày, vừa làm đầy và đều màu từng sợi lông",
+  "price": 50000,
+  "sale": 12,
+  "isDeleted": false,
+  "salePrice": 44000,
+  "photo": "1618584575053_chi-ke-may-cezanne-hai-dau-eye-brow.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a432c2c96719708b477c"
+  },
+  "id": 106,
+  "name": "bấm mi",
+  "urlRewriteName": "bam-mi",
+  "categoryId": 9,
+  "description": "Bấm mi The Face Shop Daily Beauty Tools Eyelash Curler giúp tạo dáng tối ưu cho độ cong mi hoàn hảo nhất. Không làm rụng mi và cực kì dễ sử dụng cho cả những bạn chỉ vừa mới bắt đầu học trang điểm",
+  "price": 130000,
+  "sale": 33,
+  "isDeleted": false,
+  "salePrice": 87100,
+  "photo": "1618584626757_kep-bam-mi-the-face-shop-daily-beauty-tools-eyelash-curler-472385.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a446c2c96719708b477d"
+  },
+  "id": 107,
+  "name": "bấm mi 1",
+  "urlRewriteName": "bam-mi-1",
+  "categoryId": 9,
+  "description": "Bấm mi The Face Shop Daily Beauty Tools Eyelash Curler giúp tạo dáng tối ưu cho độ cong mi hoàn hảo nhất. Không làm rụng mi và cực kì dễ sử dụng cho cả những bạn chỉ vừa mới bắt đầu học trang điểm",
+  "price": 150000,
+  "sale": 33,
+  "isDeleted": false,
+  "salePrice": 100500,
+  "photo": "1618584646117_shiseido-1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6079a45bc2c96719708b477e"
+  },
+  "id": 108,
+  "name": "bấm mi 3",
+  "urlRewriteName": "bam-mi-3",
+  "categoryId": 9,
+  "description": "Bấm mi The Face Shop Daily Beauty Tools Eyelash Curler giúp tạo dáng tối ưu cho độ cong mi hoàn hảo nhất. Không làm rụng mi và cực kì dễ sử dụng cho cả những bạn chỉ vừa mới bắt đầu học trang điểm",
+  "price": 200000,
+  "sale": 40,
+  "isDeleted": false,
+  "salePrice": 120000,
+  "photo": "1618584667143_0301-dung-cu-bam-mi.jpg",
+  "__v": 0
+}]
